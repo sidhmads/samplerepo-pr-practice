@@ -2,3 +2,5 @@
 A sample repo for practicing how to create Pull Requests
 OK first commit
 second commit
+
+Summary added
